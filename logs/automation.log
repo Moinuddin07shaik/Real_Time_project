@@ -1,0 +1,238 @@
+2026-06-08 01:47:00,624 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 01:47:02,168 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 01:47:02,225 INFO  base.BaseClass - Browser Maximized
+2026-06-08 01:47:04,551 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 01:47:04,663 INFO  base.BaseClass - Login Test Started
+2026-06-08 01:47:05,015 INFO  base.BaseClass - Credentials Entered
+2026-06-08 01:47:05,033 INFO  base.BaseClass - Login Validation Successful
+2026-06-08 01:47:05,050 INFO  base.BaseClass - Closing Browser
+2026-06-08 01:47:05,375 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 01:50:31,839 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 01:50:33,445 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 01:50:33,490 INFO  base.BaseClass - Browser Maximized
+2026-06-08 01:50:34,193 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 01:50:35,133 INFO  base.BaseClass - Closing Browser
+2026-06-08 01:50:35,481 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 02:01:56,574 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 02:01:58,200 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 02:01:58,250 INFO  base.BaseClass - Browser Maximized
+2026-06-08 02:01:59,259 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 02:02:00,040 INFO  base.BaseClass - Screenshot saved at : ./screenshots/LoginPage.png
+2026-06-08 02:02:00,176 INFO  base.BaseClass - Closing Browser
+2026-06-08 02:02:00,413 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 02:02:00,430 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 02:02:01,317 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 02:02:01,362 INFO  base.BaseClass - Browser Maximized
+2026-06-08 02:02:02,335 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 02:02:02,774 INFO  base.BaseClass - Closing Browser
+2026-06-08 02:02:02,994 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 02:02:03,004 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 02:02:03,939 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 02:02:03,972 INFO  base.BaseClass - Browser Maximized
+2026-06-08 02:02:06,152 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 02:02:06,621 INFO  base.BaseClass - Closing Browser
+2026-06-08 02:02:06,950 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 02:06:25,543 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 02:06:27,208 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 02:06:27,258 INFO  base.BaseClass - Browser Maximized
+2026-06-08 02:06:28,353 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 02:06:28,995 INFO  base.BaseClass - Screenshot saved at : ./screenshots/LoginPage.png
+2026-06-08 02:06:29,022 INFO  base.BaseClass - Closing Browser
+2026-06-08 02:06:29,326 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 02:39:32,021 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 02:39:33,602 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 02:39:33,647 INFO  base.BaseClass - Browser Maximized
+2026-06-08 02:39:34,533 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 02:39:35,858 INFO  base.BaseClass - Screenshot saved at : ./screenshots/LoginPage.png
+2026-06-08 02:39:35,882 INFO  base.BaseClass - Closing Browser
+2026-06-08 02:39:36,384 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 02:39:36,389 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 02:39:37,158 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 02:39:37,212 INFO  base.BaseClass - Browser Maximized
+2026-06-08 02:39:38,434 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 02:39:38,889 INFO  base.BaseClass - Closing Browser
+2026-06-08 02:39:39,098 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 02:39:39,102 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 02:39:39,985 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 02:39:40,018 INFO  base.BaseClass - Browser Maximized
+2026-06-08 02:39:41,916 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 02:39:42,365 INFO  base.BaseClass - Closing Browser
+2026-06-08 02:39:42,587 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 02:47:54,123 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 02:47:56,391 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 02:47:56,421 INFO  base.BaseClass - Browser Maximized
+2026-06-08 02:47:57,976 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 02:47:59,321 INFO  base.BaseClass - Screenshot saved at : ./screenshots/LoginPage.png
+2026-06-08 02:47:59,350 INFO  base.BaseClass - Closing Browser
+2026-06-08 02:47:59,615 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 02:47:59,620 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 02:48:00,531 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 02:48:00,571 INFO  base.BaseClass - Browser Maximized
+2026-06-08 02:48:01,845 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 02:48:02,267 INFO  base.BaseClass - Closing Browser
+2026-06-08 02:48:02,537 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 02:48:02,548 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 02:48:03,632 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 02:48:03,676 INFO  base.BaseClass - Browser Maximized
+2026-06-08 02:48:05,009 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 02:48:05,455 INFO  base.BaseClass - Closing Browser
+2026-06-08 02:48:05,704 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 02:52:00,931 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 02:52:02,478 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 02:52:02,521 INFO  base.BaseClass - Browser Maximized
+2026-06-08 02:52:03,342 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 02:52:03,937 INFO  base.BaseClass - Screenshot saved at : ./screenshots/LoginPage.png
+2026-06-08 02:52:03,961 INFO  base.BaseClass - Closing Browser
+2026-06-08 02:52:04,170 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 02:52:04,175 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 02:52:05,017 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 02:52:05,061 INFO  base.BaseClass - Browser Maximized
+2026-06-08 02:52:06,584 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 02:52:07,048 INFO  base.BaseClass - Closing Browser
+2026-06-08 02:52:07,261 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 02:52:07,273 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 02:52:08,205 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 02:52:08,242 INFO  base.BaseClass - Browser Maximized
+2026-06-08 02:52:09,974 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 02:52:10,429 INFO  base.BaseClass - Closing Browser
+2026-06-08 02:52:10,629 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 03:03:00,778 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 03:03:02,395 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 03:03:02,440 INFO  base.BaseClass - Browser Maximized
+2026-06-08 03:03:03,337 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 03:03:04,100 INFO  base.BaseClass - Screenshot saved at : ./screenshots/LoginPage.png
+2026-06-08 03:03:04,127 INFO  base.BaseClass - Closing Browser
+2026-06-08 03:03:04,356 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 03:03:04,372 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 03:03:05,369 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 03:03:05,411 INFO  base.BaseClass - Browser Maximized
+2026-06-08 03:03:06,526 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 03:03:06,970 INFO  base.BaseClass - Closing Browser
+2026-06-08 03:03:07,180 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 03:03:07,183 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 03:03:08,249 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 03:03:08,293 INFO  base.BaseClass - Browser Maximized
+2026-06-08 03:03:09,230 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 03:03:09,722 INFO  base.BaseClass - Closing Browser
+2026-06-08 03:03:09,940 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 03:07:23,879 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 03:07:25,505 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 03:07:25,539 INFO  base.BaseClass - Browser Maximized
+2026-06-08 03:07:26,400 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 03:07:26,977 INFO  base.BaseClass - Screenshot saved at : ./screenshots/LoginPage.png
+2026-06-08 03:07:27,007 INFO  base.BaseClass - Closing Browser
+2026-06-08 03:07:27,266 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 03:07:27,280 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 03:07:28,734 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 03:07:28,777 INFO  base.BaseClass - Browser Maximized
+2026-06-08 03:07:29,882 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 03:07:30,347 INFO  base.BaseClass - Closing Browser
+2026-06-08 03:07:30,595 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 03:07:30,603 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 03:07:31,378 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 03:07:31,410 INFO  base.BaseClass - Browser Maximized
+2026-06-08 03:07:32,544 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 03:07:32,986 INFO  base.BaseClass - Closing Browser
+2026-06-08 03:07:33,250 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 03:09:34,162 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 03:09:35,712 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 03:09:35,749 INFO  base.BaseClass - Browser Maximized
+2026-06-08 03:09:36,578 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 03:09:37,479 INFO  base.BaseClass - Screenshot saved at : ./screenshots/LoginPage.png
+2026-06-08 03:09:37,502 INFO  base.BaseClass - Closing Browser
+2026-06-08 03:09:37,781 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 03:09:37,800 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 03:09:38,755 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 03:09:38,785 INFO  base.BaseClass - Browser Maximized
+2026-06-08 03:09:40,056 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 03:09:40,513 INFO  base.BaseClass - Closing Browser
+2026-06-08 03:09:40,744 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 03:09:40,749 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 03:09:41,684 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 03:09:41,713 INFO  base.BaseClass - Browser Maximized
+2026-06-08 03:09:43,632 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 03:09:44,132 INFO  base.BaseClass - Closing Browser
+2026-06-08 03:09:44,349 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 03:14:40,102 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 03:14:41,639 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 03:14:41,672 INFO  base.BaseClass - Browser Maximized
+2026-06-08 03:14:42,495 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 03:14:43,088 INFO  base.BaseClass - Screenshot saved at : ./screenshots/LoginPage.png
+2026-06-08 03:14:43,117 INFO  base.BaseClass - Closing Browser
+2026-06-08 03:14:43,485 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 03:14:43,490 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 03:14:44,261 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 03:14:44,298 INFO  base.BaseClass - Browser Maximized
+2026-06-08 03:14:45,386 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 03:14:45,819 INFO  base.BaseClass - Closing Browser
+2026-06-08 03:14:46,071 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 03:14:46,079 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 03:14:46,963 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 03:14:47,003 INFO  base.BaseClass - Browser Maximized
+2026-06-08 03:14:48,146 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 03:14:48,635 INFO  base.BaseClass - Closing Browser
+2026-06-08 03:14:48,861 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 03:18:56,508 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 03:18:58,121 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 03:18:58,187 INFO  base.BaseClass - Browser Maximized
+2026-06-08 03:18:59,031 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 03:18:59,836 INFO  base.BaseClass - Screenshot saved at : ./screenshots/LoginPage.png
+2026-06-08 03:18:59,883 INFO  base.BaseClass - Closing Browser
+2026-06-08 03:19:00,124 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 03:19:00,131 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 03:19:01,058 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 03:19:01,103 INFO  base.BaseClass - Browser Maximized
+2026-06-08 03:19:02,228 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 03:19:02,692 INFO  base.BaseClass - Closing Browser
+2026-06-08 03:19:02,886 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 03:19:02,889 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 03:19:03,878 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 03:19:04,378 INFO  base.BaseClass - Browser Maximized
+2026-06-08 03:19:05,577 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 03:19:06,018 INFO  base.BaseClass - Closing Browser
+2026-06-08 03:19:06,293 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 03:25:17,268 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 03:25:19,560 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 03:25:19,600 INFO  base.BaseClass - Browser Maximized
+2026-06-08 03:25:23,940 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 03:25:24,767 INFO  base.BaseClass - Screenshot saved at : ./screenshots/LoginPage.png
+2026-06-08 03:25:24,802 INFO  base.BaseClass - Closing Browser
+2026-06-08 03:25:25,098 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 03:33:11,014 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 03:33:13,724 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 03:33:13,786 INFO  base.BaseClass - Browser Maximized
+2026-06-08 03:33:15,077 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 03:33:17,262 INFO  base.BaseClass - Screenshot saved at : ./screenshots/LoginPage.png
+2026-06-08 03:33:17,306 INFO  base.BaseClass - Closing Browser
+2026-06-08 03:33:17,725 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 03:33:17,744 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 03:33:19,472 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 03:33:19,537 INFO  base.BaseClass - Browser Maximized
+2026-06-08 03:33:20,649 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 03:33:21,601 INFO  base.BaseClass - Closing Browser
+2026-06-08 03:33:22,232 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 03:33:22,239 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 03:33:23,666 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 03:33:23,755 INFO  base.BaseClass - Browser Maximized
+2026-06-08 03:33:25,210 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 03:33:26,132 INFO  base.BaseClass - Closing Browser
+2026-06-08 03:33:26,815 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 03:36:53,175 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 03:36:56,088 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 03:36:56,158 INFO  base.BaseClass - Browser Maximized
+2026-06-08 03:36:57,080 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 03:36:59,339 INFO  base.BaseClass - Screenshot saved at : ./screenshots/LoginPage.png
+2026-06-08 03:36:59,382 INFO  base.BaseClass - Closing Browser
+2026-06-08 03:36:59,746 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 03:36:59,755 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 03:37:01,628 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 03:37:01,700 INFO  base.BaseClass - Browser Maximized
+2026-06-08 03:37:02,907 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 03:37:03,826 INFO  base.BaseClass - Closing Browser
+2026-06-08 03:37:04,341 INFO  base.BaseClass - ===== Test Execution Completed =====
+2026-06-08 03:37:04,377 INFO  base.BaseClass - ===== Test Execution Started =====
+2026-06-08 03:37:06,022 INFO  base.BaseClass - Chrome Browser Launched
+2026-06-08 03:37:06,089 INFO  base.BaseClass - Browser Maximized
+2026-06-08 03:37:07,518 INFO  base.BaseClass - Navigated to URL: https://www.saucedemo.com
+2026-06-08 03:37:08,420 INFO  base.BaseClass - Closing Browser
+2026-06-08 03:37:08,830 INFO  base.BaseClass - ===== Test Execution Completed =====

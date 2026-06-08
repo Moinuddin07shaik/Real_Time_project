@@ -1,0 +1,33 @@
+package utilities;
+
+import java.io.File;
+import java.io.IOException;
+
+import org.apache.commons.io.FileUtils;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
+
+import base.BaseClass;
+
+public class ScreenshotUtil extends BaseClass {
+
+    public static String captureScreenshot(String testName) {
+
+        TakesScreenshot ts =
+                (TakesScreenshot) driver;
+
+        File src =
+                ts.getScreenshotAs(OutputType.FILE);
+
+        String path =
+                "./screenshots/" + testName + ".png";
+
+        try {
+            FileUtils.copyFile(src, new File(path));
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        return path;
+    }
+}
