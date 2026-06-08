@@ -16,7 +16,7 @@ import javax.mail.internet.MimeMultipart;
 public class EmailUtil {
 	public static void sendReport() throws Exception {
 
-		String To = "gangadhariramcharan41@gmail.com";
+		String To = "moinuddinshaik1224@gmail.com";
 		String From = "moinuddinshaik7089@gmail.com";
 		// mpavank70131@gmail.com
 		// kindrasena579@gmail.com
