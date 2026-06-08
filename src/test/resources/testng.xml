@@ -1,0 +1,25 @@
+
+
+<suite name="AutomationSuite">
+
+    <listeners>
+        <listener class-name="listeners.TestListener"/>
+    </listeners>
+    
+    <listeners>
+    <listener class-name="listeners.SuiteListener"/>
+</listeners>
+
+    <test name="Smoke" thread-count="5">
+
+        <classes>
+
+            <class name="tests.LoginTest"/>
+            <class name="tests.AddToCartTest"/>
+            <class name="tests.CheckoutTest"/>
+
+        </classes>
+
+    </test>
+
+</suite>
